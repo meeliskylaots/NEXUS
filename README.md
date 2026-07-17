@@ -9,6 +9,7 @@ Aidata avaliku sektori spetsialistidel teha paremaid, kiiremaid ja tõenduspõhi
 NEXUS on avaliku sektori strateegiline otsustoe platvorm, mis aitab mõista mitte ainult seda, mis toimub, vaid ka seda, miks see toimub, millist mõju see avaldab ja milliseid tegevusi tasub kaaluda.
 
 **Põhimõtted**
+
 Auditeeritavus
 Iga järeldus peab olema viidav tagasi algallikani.
 
