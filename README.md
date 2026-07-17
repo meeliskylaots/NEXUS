@@ -10,15 +10,12 @@ NEXUS on avaliku sektori strateegiline otsustoe platvorm, mis aitab mõista mitt
 
 **Põhimõtted**
 
-Auditeeritavus
-Iga järeldus peab olema viidav tagasi algallikani.
+Auditeeritavus - Iga järeldus peab olema viidav tagasi algallikani.
 
-Rollipõhisus
+Rollipõhisus - Sama info võib eri rollidele tähendada erinevaid asju.
 
-Sama info võib eri rollidele tähendada erinevaid asju.
-Tõenduspõhisus
-Faktid, hinnangud ja AI tõlgendused on selgelt eristatud.
-Selgitatavus
-Süsteem peab oskama põhjendada, miks ta midagi soovitab.
-Inimene otsustab
-AI ei tee poliitilisi otsuseid. Ta aitab infot struktureerida, tuvastada mustreid ja pakkuda argumenteeritud soovitusi.
+Tõenduspõhisus - Faktid, hinnangud ja AI tõlgendused on selgelt eristatud.
+
+Selgitatavus - Süsteem peab oskama põhjendada, miks ta midagi soovitab.
+
+Inimene otsustab - AI ei tee poliitilisi otsuseid. Ta aitab infot struktureerida, tuvastada mustreid ja pakkuda argumenteeritud soovitusi.
