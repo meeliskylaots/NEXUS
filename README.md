@@ -11,7 +11,9 @@ NEXUS on avaliku sektori strateegiline otsustoe platvorm, mis aitab mõista mitt
 **Põhimõtted**
 Auditeeritavus
 Iga järeldus peab olema viidav tagasi algallikani.
+
 Rollipõhisus
+
 Sama info võib eri rollidele tähendada erinevaid asju.
 Tõenduspõhisus
 Faktid, hinnangud ja AI tõlgendused on selgelt eristatud.
